@@ -7,9 +7,8 @@
 - Responsive Website và Mobile
 
 ## Run
-    ```sh
-    npm install
-    ```
-    ```sh
-    npm run dev
-    ```
+
+```sh
+npm install
+npm run dev
+ ```
