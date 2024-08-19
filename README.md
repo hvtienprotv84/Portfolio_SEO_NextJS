@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../src/app/seo.png" width="800"/>
+    <img src="./src/app/seo.png" width="800"/>
 </div>
 
 # Portfolio - SEO
